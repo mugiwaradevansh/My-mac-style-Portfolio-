@@ -15,7 +15,6 @@ It demonstrates advanced frontend engineering capabilities, including complex st
 
 [**Available Here**](https://devanshportfoliomacstyle.vercel.app/)
 
-*(Replace `#` with your actual Vercel/Netlify link when deployed)*
 
 ## 🛠️ Tech Stack & Architecture
 
