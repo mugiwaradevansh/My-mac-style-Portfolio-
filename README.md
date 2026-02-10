@@ -2,7 +2,8 @@
 
 > **"Experience my work through a familiar interface."**
 
-![macOS Portfolio Preview](/images/demo.png)
+![macOS Portfolio Preview] <img width="1919" height="974" alt="demo" src="https://github.com/user-attachments/assets/5a6cc717-a0f9-4f8f-a4c7-c1874d98d259" />
+
 
 ## 👋 About This Project
 
