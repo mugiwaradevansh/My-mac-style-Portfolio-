@@ -2,7 +2,7 @@
 
 > **"Experience my work through a familiar interface."**
 
-![macOS Portfolio Preview](/images/wallpaper.jpg)
+![macOS Portfolio Preview](/images/demo.png)
 
 ## 👋 About This Project
 
