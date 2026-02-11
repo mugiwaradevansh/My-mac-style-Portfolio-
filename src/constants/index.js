@@ -181,14 +181,46 @@ const gallery = [
   { id: 108, img: "/images/project-AI-Resume-Analyzer-8.jpg", category: 1 },
 
   // Travel Agency (Category 2)
-  { id: 200, img: "/images/Full-Stack Travel Agency Platform.jpg", category: 2 },
-  { id: 201, img: "/images/Full-Stack Travel Agency Platform-1.jpg", category: 2 },
-  { id: 202, img: "/images/Full-Stack Travel Agency Platform-2.jpg", category: 2 },
-  { id: 203, img: "/images/Full-Stack Travel Agency Platform-3.jpg", category: 2 },
-  { id: 204, img: "/images/Full-Stack Travel Agency Platform-4.jpg", category: 2 },
-  { id: 205, img: "/images/Full-Stack Travel Agency Platform-5.jpg", category: 2 },
-  { id: 206, img: "/images/Full-Stack Travel Agency Platform-6.jpg", category: 2 },
-  { id: 207, img: "/images/Full-Stack Travel Agency Platform-7.jpg", category: 2 },
+  {
+    id: 200,
+    img: "/images/Full-Stack Travel Agency Platform.jpg",
+    category: 2,
+  },
+  {
+    id: 201,
+    img: "/images/Full-Stack Travel Agency Platform-1.jpg",
+    category: 2,
+  },
+  {
+    id: 202,
+    img: "/images/Full-Stack Travel Agency Platform-2.jpg",
+    category: 2,
+  },
+  {
+    id: 203,
+    img: "/images/Full-Stack Travel Agency Platform-3.jpg",
+    category: 2,
+  },
+  {
+    id: 204,
+    img: "/images/Full-Stack Travel Agency Platform-4.jpg",
+    category: 2,
+  },
+  {
+    id: 205,
+    img: "/images/Full-Stack Travel Agency Platform-5.jpg",
+    category: 2,
+  },
+  {
+    id: 206,
+    img: "/images/Full-Stack Travel Agency Platform-6.jpg",
+    category: 2,
+  },
+  {
+    id: 207,
+    img: "/images/Full-Stack Travel Agency Platform-7.jpg",
+    category: 2,
+  },
 
   // Subscription Tracker (Category 3)
   { id: 300, img: "/images/Subscription Tracker MVP.jpg", category: 3 },
@@ -267,7 +299,7 @@ const WORK_LOCATION = {
       name: "Full-Stack Travel Agency Platform",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-40 left-5",
+      position: "top-40 left-1",
       windowPosition: "top-[25vh] left-[25vw]",
 
       children: [
@@ -310,7 +342,7 @@ const WORK_LOCATION = {
       name: "Subscription Tracker MVP",
       icon: "/images/folder.png",
       kind: "folder",
-      position: "top-80 left-5",
+      position: "top-5 left-40",
       windowPosition: "top-[35vh] left-[30vw]",
       children: [
         {
